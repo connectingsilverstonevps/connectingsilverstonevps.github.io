@@ -1,4 +1,4 @@
-## A secure, fast and free VPS hosted on DigitalOcean.
+## A secure, fast and free VPN service hosted on DigitalOcean.
 
 ## iPhone
 **Read this all before continuing.**
