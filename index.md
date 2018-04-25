@@ -1,7 +1,7 @@
 ## A secure, fast and free VPS hosted on DigitalOcean.
 
 ## iPhone
-*Read this all before continuing.*
+**Read this all before continuing.**
 
 Copy the password to your clipboard, you will need it later.
 
@@ -11,12 +11,12 @@ Click the link below to download the Profile. Install it and enter your passcode
 
 [Profile Download](https://raw.githubusercontent.com/connectingsilverstonevps/connectingsilverstonevps.github.io/master/digitalocean.mobileconfig)
 
-*To Turn On VPN*
+**To Turn On VPN**
 
 Go to Settings, General, VPN. Turn on Algo VPN.
 
 ## Android
-*Read this all before continuing.*
+**Read this all before continuing.**
 
 Copy the password to your clipboard, you will need it later.
 
@@ -38,5 +38,6 @@ Tap "Import" at the top right.
 
 Paste the password you copied in.
 
-*To Turn On VPN*
+**To Turn On VPN**
+
 Go to the strongSwan app, and select "Algo 172.62.43.211" and it should connect.
