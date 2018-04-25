@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+## A secure, fast and free VPS hosted on DigitalOcean.
 
-You can use the [editor on GitHub](https://github.com/connectingsilverstonevps/connectingsilverstonevps.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## iPhone
+*Read this all before continuing.*
+Copy the password to your clipboard, you will need it later.
+`WOnjVEhr`
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Click the link below to download the Profile. Install it and enter your passcode when prompted. Use the password you copied above when it asks for one.
 
-### Markdown
+[Profile Download](https://raw.githubusercontent.com/connectingsilverstonevps/connectingsilverstonevps.github.io/master/digitalocean.mobileconfig)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+*To Turn On VPN*
+Go to Settings, General, VPN. Turn on Algo VPN.
 
-```markdown
-Syntax highlighted code block
+## Android
+*Read this all before continuing.*
+Copy the password to your clipboard, you will need it later.
+`WOnjVEhr`
 
-# Header 1
-## Header 2
-### Header 3
+Download *BOTH* of these files.
 
-- Bulleted
-- List
+[Profile Download](https://github.com/connectingsilverstonevps/connectingsilverstonevps.github.io/blob/master/android_digitalocean.sswan)
+[Helper Download](https://github.com/connectingsilverstonevps/connectingsilverstonevps.github.io/blob/master/android_digitalocean_helper.html)
 
-1. Numbered
-2. List
+Download the strongSwan VPN Client by [clicking here.](https://play.google.com/store/apps/details?id=org.strongswan.android)
 
-**Bold** and _Italic_ and `Code` text
+Open the app, click the three dots at the top right and select "Import VPN Profile"
 
-[Link](url) and ![Image](src)
-```
+Find your downloads folder using the menu on the right, then select the .sswan file you downloaded.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Tap "Import" at the top right.
 
-### Jekyll Themes
+Paste the password you copied in.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/connectingsilverstonevps/connectingsilverstonevps.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+*To Turn On VPN*
+Go to the strongSwan app, and select "Algo 172.62.43.211" and it should connect.
