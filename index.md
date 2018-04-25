@@ -28,13 +28,17 @@ Tap and hold on [this link](https://bit.ly/2HvmeVl) and select Download link.
 
 Tap on [this link](https://bit.ly/2JrOyrY) and select Import VPN Profile.
 
+Tap on Import Certificate from VPN Profile, then paste the password you copied.
+
+Tap OK, then Select. 
+
 Tap "Import" at the top right.
 
-Paste the password you copied in.
+
 
 **To Turn On VPN**
 
-Go to the strongSwan app, and select "Algo 172.62.43.211" and it should connect.
+Go to the strongSwan app, and select "DigitalOcean VPN" and it should connect.
 
 
 ## Technical bits
