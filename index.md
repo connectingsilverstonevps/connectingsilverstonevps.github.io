@@ -2,7 +2,9 @@
 
 ## iPhone
 *Read this all before continuing.*
+
 Copy the password to your clipboard, you will need it later.
+
 `WOnjVEhr`
 
 Click the link below to download the Profile. Install it and enter your passcode when prompted. Use the password you copied above when it asks for one.
@@ -10,16 +12,20 @@ Click the link below to download the Profile. Install it and enter your passcode
 [Profile Download](https://raw.githubusercontent.com/connectingsilverstonevps/connectingsilverstonevps.github.io/master/digitalocean.mobileconfig)
 
 *To Turn On VPN*
+
 Go to Settings, General, VPN. Turn on Algo VPN.
 
 ## Android
 *Read this all before continuing.*
+
 Copy the password to your clipboard, you will need it later.
+
 `WOnjVEhr`
 
 Download *BOTH* of these files.
 
 [Profile Download](https://github.com/connectingsilverstonevps/connectingsilverstonevps.github.io/blob/master/android_digitalocean.sswan)
+
 [Helper Download](https://github.com/connectingsilverstonevps/connectingsilverstonevps.github.io/blob/master/android_digitalocean_helper.html)
 
 Download the strongSwan VPN Client by [clicking here.](https://play.google.com/store/apps/details?id=org.strongswan.android)
