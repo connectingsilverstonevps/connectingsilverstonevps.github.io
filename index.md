@@ -41,3 +41,7 @@ Paste the password you copied in.
 **To Turn On VPN**
 
 Go to the strongSwan app, and select "Algo 172.62.43.211" and it should connect.
+
+
+## Technical bits
+This service is hosted on DigitalOcean in the London region. The software used is Algo, running on Ubuntu 16.04 LTS.
