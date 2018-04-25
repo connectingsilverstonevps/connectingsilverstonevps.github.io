@@ -24,7 +24,7 @@ Copy the password to your clipboard, you will need it later.
 
 Download the strongSwan VPN Client by [clicking here.](https://play.google.com/store/apps/details?id=org.strongswan.android)
 
-Tap and hold on [this link](https://github.com/connectingsilverstonevps/connectingsilverstonevps.ghttps://raw.githubusercontent.com/connectingsilverstonevps/connectingsilverstonevps.github.io/master/android_digitalocean_helper.html) and select Download link. 
+Tap and hold on [this link](https://bit.ly/2HvmeVl) and select Download link. 
 
 Tap on [this link](https://github.com/connectingsilverstonevps/connectingsilverstonevps.github.io/blob/master/android_digitalocean.sswan) and select Import VPN Profile.
 
